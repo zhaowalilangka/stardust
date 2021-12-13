@@ -3,5 +3,5 @@ import (
   "fmt"
 )
 func Hello(name string) string {
-	return fmt.Spritf("Hello, %s",name)
+	return fmt.Sprintf("Hello, %s",name)
 }
